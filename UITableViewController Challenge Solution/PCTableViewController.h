@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PCTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Paul Chin on 12/21/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface PCTableViewController : UITableViewController
 
 @end
-
